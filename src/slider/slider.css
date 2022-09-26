@@ -1,0 +1,11 @@
+.container {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.slider {
+  display: flex;
+  overflow: hidden;
+  width: fit-content;
+}
